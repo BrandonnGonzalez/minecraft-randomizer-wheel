@@ -6,7 +6,7 @@ A Minecraft-themed web app that spins a randomizer wheel to land on a random sur
 
 ---
 
-## 🎮 Features
+## Features
 
 - **Randomizer Wheel** — Spins through 190+ legitimate survival-mode Minecraft items
 - **Minecraft Item Sprites** — Loads real item icons from the Minecraft API
@@ -18,7 +18,7 @@ A Minecraft-themed web app that spins a randomizer wheel to land on a random sur
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 This is a **single-file app** — no build tools, no dependencies to install.
 
@@ -40,7 +40,7 @@ npx serve .
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 minecraft-randomizer/
@@ -50,7 +50,7 @@ minecraft-randomizer/
 
 ---
 
-## 🌐 Deploying
+## Deploying
 
 Because this is a single HTML file, it can be hosted anywhere:
 
@@ -62,7 +62,7 @@ Because this is a single HTML file, it can be hosted anywhere:
 
 ---
 
-## 🎨 Tech Stack
+## Tech Stack
 
 - **HTML5 Canvas** — Wheel rendering and animation
 - **Vanilla JavaScript** — Spin logic, easing, theme toggle
@@ -72,7 +72,7 @@ Because this is a single HTML file, it can be hosted anywhere:
 
 ---
 
-## 📦 Item Categories
+## Item Categories
 
 | Category | Examples |
 |---|---|
@@ -93,7 +93,7 @@ Because this is a single HTML file, it can be hosted anywhere:
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 | Day Mode | Night Mode |
 |---|---|
@@ -101,6 +101,6 @@ Because this is a single HTML file, it can be hosted anywhere:
 
 ---
 
-## 📝 License
+## License
 
 MIT — free to use, modify, and share.
