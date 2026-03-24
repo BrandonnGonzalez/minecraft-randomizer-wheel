@@ -1,6 +1,6 @@
 # ⛏️ Minecraft Item Randomizer
 
-A Minecraft-themed web app that spins a randomizer wheel to land on a random survival-obtainable item. Features a pixel-art Minecraft aesthetic, day/night mode toggle, and is fully mobile-responsive.
+A Minecraft-themed web app that spins a randomizer wheel to land on a random survival-obtainable item. Features a pixel-art Minecraft aesthetic, day/night mode toggle, and is fully mobile-responsive!
 
 ![Minecraft Item Randomizer](https://img.shields.io/badge/Minecraft-Item%20Randomizer-56D63C?style=for-the-badge&logo=data:image/png;base64,)
 
