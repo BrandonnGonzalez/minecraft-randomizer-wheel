@@ -72,7 +72,7 @@ Because this is a single HTML file, it can be hosted anywhere:
 
 ---
 
-## Item Categories
+## Item Categories:
 
 | Category | Examples |
 |---|---|
